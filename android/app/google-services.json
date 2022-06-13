@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "33414107403",
+    "project_id": "physigo",
+    "storage_bucket": "physigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33414107403:android:aaf9d5af5ed2a103a1920e",
+        "android_client_info": {
+          "package_name": "com.example.physigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33414107403-f05g2s2bhagi9kdqqbfc4aac98t7s9f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUb8raBFHQA_AwR5cUrdCT6TkoWjj_jO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33414107403-f05g2s2bhagi9kdqqbfc4aac98t7s9f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33414107403-7e3vb8825iemlec2geietj4b00ldhbbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.physigo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
